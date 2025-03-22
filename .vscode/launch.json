@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/User/Desktop/Univel/Disciplinas/Estrutura_de_dados/odenacaoDeDados/selection_sort",
-      "program": "c:/Users/User/Desktop/Univel/Disciplinas/Estrutura_de_dados/odenacaoDeDados/selection_sort/build/Debug/outDebug",
+      "cwd": "c:/Users/User/Desktop/Univel/Disciplinas/Estrutura_de_dados/odenacaoDeDados/Insertion_sort",
+      "program": "c:/Users/User/Desktop/Univel/Disciplinas/Estrutura_de_dados/odenacaoDeDados/Insertion_sort/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
